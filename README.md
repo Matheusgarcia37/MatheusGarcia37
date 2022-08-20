@@ -1,7 +1,6 @@
 ### Olá! Eu sou Matheus Garcia
 - 🔭 Trabalhando como Full Stack Developer
 - 🌱 Gosto de estudar React | React Native | NodeJs | Typescript
-- 😄 Pronouns: ele/dele
 
 
 <div align="center">
