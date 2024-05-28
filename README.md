@@ -1,6 +1,6 @@
 ### Olá! Eu sou Matheus Garcia
 - 🔭 Trabalhando como Full Stack Developer
-- 🌱 Gosto de estudar React | React Native | NodeJs | Typescript
+- 🌱 Gosto de estudar .Net | C# | React | NodeJs
 
 
 <div align="center">
