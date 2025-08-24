@@ -1,30 +1,44 @@
-### Olá! Eu sou Matheus Garcia
-- 🔭 Trabalhando como Desenvolvedor Full Stack
-- 🌱 Gosto de estudar .Net | C# | React | NodeJs
+# 👋 Olá, eu sou o Matheus Garcia Moreira  
 
+💻 Desenvolvedor **Full Stack .NET** apaixonado por tecnologia, performance e boas práticas de software.  
+🎯 Foco em **.NET, SQL Server, React, Node.js e AWS**.  
+🚀 Sempre em busca de aprender, evoluir e entregar soluções de impacto.  
+
+---
+
+## 🚀 Tecnologias & Ferramentas
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/Matheusgarcia37">
+
+![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheusgarcia37&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusgarcia37&layout=compact&theme=radical)  
+
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-  <!--<img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  -->
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.linkedin.com/in/matheus-garcia-moreira-3153561a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- <!-- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
- 
-</div>
+
+---
+
+## 📫 Onde me encontrar
+
+- ✉️ **E-mail:** [matheusgarcia37@hotmail.com](mailto:matheusgarcia37@hotmail.com)  
+- 💼 **LinkedIn:** [Matheus Garcia Moreira](https://www.linkedin.com/in/matheus-garcia-moreira-3153561a4)  
+- 💻 **GitHub:** [Matheusgarcia37](https://github.com/Matheusgarcia37)  
+
+---
+
+⭐️ Se gostou do que viu aqui, não esqueça de dar uma olhada nos meus repositórios e deixar uma ⭐️ nos projetos que você curtir!
